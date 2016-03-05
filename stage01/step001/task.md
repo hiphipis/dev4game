@@ -7,8 +7,8 @@ Miesto etapas • 1989-1990 m. • VIII–XII kl. savaitgaliai
 Savaitgalių skaičius
 ====================
 
-Užduotis. Parašykite algoritma duotu metu m savaitgaliu dienu (šeštadieniu ir sekmadieniu) skaiciui rasti.
-Pavyzdžiui, jeigu argumentas 1989, tai rezultatas turi buti 105.
+Užduotis. Parašykite algoritmą duotų metų m savaitgalių dienų (šeštadienių ir sekmadienių) skaičiui rasti.
+Pavyzdžiui, jeigu argumentas 1989, tai rezultatas turi būti 105.
 
 *Pavyzdžiai.*
 
