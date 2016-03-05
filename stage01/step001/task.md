@@ -17,10 +17,9 @@ Pavyzdžiui, jeigu argumentas 1989, tai rezultatas turi būti 105.
 
 **Pavyzdžiai.**
 
-<table>
-<tr><th>Pradiniai duomenys</th><th>Rezultatai</th></tr>
-<tr><td>1989</td><td>105</td></tr>
-</table>
+|Pradiniai duomenys|Rezultatai|
+|------------------|----------|
+|1989              |105       |
 
-Ribojimai. 1950 <= m <= 1999.
+**Ribojimai.** 1950 <= m <= 1999.
 
