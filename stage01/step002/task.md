@@ -12,15 +12,14 @@ Nulių ir vienetų seka generuojama šitaip. Rašomas nulis – tai pirmasis sek
 prie sekos prirašoma (pakartojama) jau esanti invertuota seka (t. y. nuliai pakeisti vienetais,
 o vienetai – nuliais). Taigi su kiekvienu žingsniu seka dvigubai pailgeja. Žemiau parodyta,
 kaip formuojama seka:
+
+```
 0
-
 0 1
-
 0 1 1 0
-
 0 1 1 0 1 0 0 1
-
 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0
+```
 
 **Užduotis.** Parašykite algoritma n-ajam sekos nariui rasti.
 
