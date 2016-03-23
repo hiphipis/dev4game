@@ -10,6 +10,7 @@ Faktorialo skaidymas
 **Užduotis.** Parašykite algoritma, nustatanti, keliais pirminiais dauginamaisiais galima išskaidyti
 duoto skaiciaus n faktoriala.
 **Pavyzdžiai.**
+
 |Pradiniai duomenys|Rezultatai|Paaiškinimas                              |
 |------------------|----------|------------------------------------------|
 |1                 |0         |1! = 1; (vienetas nera pirminis skaicius) |
