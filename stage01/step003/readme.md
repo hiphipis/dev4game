@@ -29,24 +29,24 @@ Daugiau pasiskaitymui: <https://github.com/linasp/leidinys-9-10-kl/blob/master/s
 Užduotys
 --------
 1. Be kompiuterio pagalbos išanalizuok ir paaiškink (užrašyk komentarus), ką atlieka šios funkcijos:
-```java
-String f(String s) {		// ka gražins toks funkcijos iškvietimas: f("sedek"); ?
-	if (s.length() > 1)
-		return g( s.substring(1) ) + s.charAt(0);
-	else if (s.length() == 0)
-		return "";
-	else
-		return s.charAt(0);
-}
-
-void g(int[] m, int ix) {	// ką pagamins toks funkcijos iškvietimas: g( new int[] {1, 2, 4, 4}, 1 ); ?
-	if (ix < m.length) {
-		int v = m[x];
-		g(m, ix+1);
-		m[ m.length - ix - 1 ] = v;
-	}
-}
-```
+		```java
+		String f(String s) {		// ka gražins toks funkcijos iškvietimas: f("sedek"); ?
+			if (s.length() > 1)
+				return g( s.substring(1) ) + s.charAt(0);
+			else if (s.length() == 0)
+				return "";
+			else
+				return s.charAt(0);
+		}
+		
+		void g(int[] m, int ix) {	// ką pagamins toks funkcijos iškvietimas: g( new int[] {1, 2, 4, 4}, 1 ); ?
+			if (ix < m.length) {
+				int v = m[x];
+				g(m, ix+1);
+				m[ m.length - ix - 1 ] = v;
+			}
+		}
+		```
 2. Naudodamas rekursijos metodu parašyk funkciją n-tajam [ankstesnės užduoties](../step002/task.md) sekos nariui surasti.
 
 Programavimo užduotis
