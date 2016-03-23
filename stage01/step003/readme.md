@@ -29,8 +29,7 @@ Daugiau pasiskaitymui: <https://github.com/linasp/leidinys-9-10-kl/blob/master/s
 Užduotys
 --------
 1. Be kompiuterio pagalbos išanalizuok ir paaiškink (užrašyk komentarus), ką atlieka šios funkcijos:
-
-		```java
+	```java
 		String f(String s) {		// ka gražins toks funkcijos iškvietimas: f("sedek"); ?
 			if (s.length() > 1)
 				return g( s.substring(1) ) + s.charAt(0);
@@ -47,7 +46,7 @@ Užduotys
 				m[ m.length - ix - 1 ] = v;
 			}
 		}
-		```
+	```
 2. Naudodamas rekursijos metodu parašyk funkciją n-tajam [ankstesnės užduoties](../step002/task.md) sekos nariui surasti.
 
 Programavimo užduotis
