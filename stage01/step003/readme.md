@@ -29,6 +29,7 @@ Daugiau pasiskaitymui: <https://github.com/linasp/leidinys-9-10-kl/blob/master/s
 Užduotys
 --------
 1. Be kompiuterio pagalbos išanalizuok ir paaiškink (užrašyk komentarus), ką atlieka šios funkcijos:
+
 		```java
 		String f(String s) {		// ka gražins toks funkcijos iškvietimas: f("sedek"); ?
 			if (s.length() > 1)
