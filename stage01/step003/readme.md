@@ -32,13 +32,13 @@ Užduotys
 	```java
 		String f(String s) {		// ka gražins toks funkcijos iškvietimas: f("sedek"); ?
 			if (s.length() > 1)
-				return g( s.substring(1) ) + s.charAt(0);
+				return f( s.substring(1) ) + s.charAt(0);
 			else if (s.length() == 0)
 				return "";
 			else
 				return s.charAt(0);
 		}
-		
+
 		void g(int[] m, int ix) {	// ką pagamins toks funkcijos iškvietimas: g( new int[] {1, 2, 4, 4}, 1 ); ?
 			if (ix < m.length) {
 				int v = m[x];
