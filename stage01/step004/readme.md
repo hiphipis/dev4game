@@ -113,7 +113,7 @@ atspausdintų eilutę kolekcijos reikšmių atskirtų per kabliataškį ir tarp�
 2. Naudodamas kolekciją atspausdink [ankstesnės užduoties](../step003/task.md) metu surastų pirminių daugyklių sąrašą tokiu pavidalu (pvz. kai n==6):  
   ```
   6! = 2 * 3 * 2 * 2 * 5 * 2 * 3
-  ```
+  ```  
 Atspausdinamų dauginamųjų tvarka nėra svarbi, svarbu, kad būtų atspausdinta tiek kiek jų yra ir kokie yra.
 
 Programavimo užduotis
