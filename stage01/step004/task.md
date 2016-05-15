@@ -7,13 +7,13 @@ Respublikinis etapas (2) • 1990-1991 m. • VIII–XII kl. paskalio-trik
 
 Paskalio trikampis
 --------------------
-Paskalio trikampis atrodo šitaip:
-1
-1 1
-1 2 1
-1 3 3 1
-1 4 6 4 1
-. . . . .
+Paskalio trikampis atrodo šitaip:  
+1  
+1 1  
+1 2 1  
+1 3 3 1  
+1 4 6 4 1  
+. . . . .  
 Kiekvienos eilutės pirmasis ir paskutinis nariai lygus 1, o kiti nariai lygūs virš jų esančių
 dviejų gretimų skaičių sumai.
 
