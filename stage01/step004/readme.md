@@ -105,12 +105,12 @@ daug patogiau, negu pačiam apsirašinėti visus ciklo kintamuosius.
 Užduotis
 --------
 1. Patobulink aukščiau parašytą programą, kad ji vietoje eilutės, atspausdintos standartiniu būdu,
-atspausdintų eilutę kolekcijos reikšmių atskirtų per kabliataškį ir tarpą, t.y. taip:
+atspausdintų eilutę kolekcijos reikšmių atskirtų per kabliataškį ir tarpą, t.y. taip:  
   ```
     LinkedList Elements
       10; 2; 30
   ```
-2. Naudodamas kolekciją atspausdink [ankstesnės užduoties](../step003/task.md) metu surastų pirminių daugyklių sąrašą tokiu pavidalu (pvz. kai n==6):
+2. Naudodamas kolekciją atspausdink [ankstesnės užduoties](../step003/task.md) metu surastų pirminių daugyklių sąrašą tokiu pavidalu (pvz. kai n==6):  
   ```
   6! = 2 * 3 * 2 * 2 * 5 * 2 * 3
   ```
