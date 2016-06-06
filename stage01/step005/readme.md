@@ -22,6 +22,7 @@ ilgas
 labai
 mano
 ```
-Parašyti reikia du programėlės variantus
+Parašyti reikia du programėlės variantus:
+
 1. Panaudojant rekursines funkcijas. (Hint: nei masyvų, nei kolekcijų šiame variante nereikia)
 2. Naudojant kolekcijas. (Hint: patogiausia būtų panaudoti **List** klasės metodą **add(int pos, T item)**)

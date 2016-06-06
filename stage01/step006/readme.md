@@ -50,10 +50,11 @@ Naudojant kolekcijas parašyti šias programėles:
 
 1. Programėlė, kuri skaito sveikus teigiamus skaičius ir įvedus nulį parašo visus
 skirtingus skaičius didėjimo tvarka (**SortedSet<Integer>**).
-2. Programėlė, kuri prašo įvesti šachmatų figūras lentoje. Įvedama paeiliui šachmatų
-lentos langelio pavadinimas ir figūros pavadinimas. Įvedimo pabaiga žymima nurodant
-langelio pavadinimą 'gg'. Pabaigus įvedimą programa atspausdina visas figūras
-šachmatų lentoje (naudojant paprastą kolekcijos spausdinimą), pvz.:
+2. Programėlė, kuri prašo įvesti šachmatų figūras lentoje (**Map<String,String>**).
+Įvedama paeiliui šachmatų lentos langelio pavadinimas ir figūros pavadinimas.
+Įvedimo pabaiga žymima nurodant langelio pavadinimą 'gg'. Pabaigus įvedimą
+programa atspausdina visas figūrasšachmatų lentoje (naudojant paprastą kolekcijos
+spausdinimą), pvz.:
   ```
   langelis: e2
   figūra: pėstininkas
