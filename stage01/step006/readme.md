@@ -49,8 +49,8 @@ Užduotys
 Naudojant kolekcijas parašyti šias programėles:
 
 1. Programėlė, kuri skaito sveikus teigiamus skaičius ir įvedus nulį parašo visus
-skirtingus skaičius didėjimo tvarka (**SortedSet<Integer>**).
-2. Programėlė, kuri prašo įvesti šachmatų figūras lentoje (**Map<String,String>**).
+skirtingus skaičius didėjimo tvarka (**SortedSet< Integer >**).
+2. Programėlė, kuri prašo įvesti šachmatų figūras lentoje (**Map< String, String >**).
 Įvedama paeiliui šachmatų lentos langelio pavadinimas ir figūros pavadinimas.
 Įvedimo pabaiga žymima nurodant langelio pavadinimą 'gg'. Pabaigus įvedimą
 programa atspausdina visas figūrasšachmatų lentoje (naudojant paprastą kolekcijos
