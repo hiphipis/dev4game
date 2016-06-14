@@ -58,9 +58,10 @@ klasės apibrėžimą. Pvz.:
   ```
 5. Importuoti galima vieną pasirinktą klasę, kaip parodyta pavyzdyje aukščiau, arba visas paketo klases,
 vietoje klasės nurodant tiesiog žvaigždutės simbolį:
+
   ```java
-   import java.util.*; // Importuojame visas paketo java.util klases
-   import myapp.database.MyClass; // Importajame vienintelę klasę MyClass iš paketo myapp.database
+  import java.util.*; // Importuojame visas paketo java.util klases
+  import myapp.database.MyClass; // Importajame vienintelę klasę MyClass iš paketo myapp.database
   ```
 6. Norint panaudoti klases, kurios priklauso tam pačiam paketui, jų importuoti nereikia.
 
