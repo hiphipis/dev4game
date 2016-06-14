@@ -6,6 +6,7 @@ Tikslas - pagerinti sugebėjimus tinkamai (tvarkingai) organizuoti parašytą pr
 Teorija
 -------
 Java programavimo kalboje programinis kodas yra organizuojamas naudojant du pagrindinius mechanizmus:
+
 1. Išskiriant svarbias klases į atskirus failus.
 2. Apjungiant susijusias klases į klasių paketus.
 
@@ -18,6 +19,7 @@ tik *public* rūšies klasėmis.
 Rašant dideles programas tokių *public* rūšies klasių būna suskaičiuojama tūkstančiais.
 Kad būtų lengviau susigaudyti ir prižiūrėti tokį didelį klasių kiekį, klasės paprastai
 yra apjungiamos į klasių paketus, pagal atliekamas funkcijas, pvz.:
+
 1. Klasių paketas skirtas duomenų įrašymui į (nuskaitymui iš) duomenų bazę.
 2. Ataskaitų modulio klasių paketas.
 3. Vartototojo sąsają realizuojančios klasės.
@@ -28,6 +30,7 @@ Pateikti paketų pavyzdžiai yra skirti tik iliustruoti ir tikrai neišsemia vis
 kuri naudojama grupuojant klases į paketus.
 
 Klasių paketai sudaromi tokiu būdu:
+
 1. Paketui suteikiamas pavadinimas. Pavadinimą sudaro vienas arba keli žodžiai, kurie įprastai rašomi
 iš mažosios raidės, atskirti tašku. Pvz.:
   - myapp
@@ -65,6 +68,7 @@ Ne visada tikslus klasių grupavimas į paketus būna žinomas prieš pradedant 
 Todėl šiuolaikiniai įrankiai, kaip pvz. Eclipse IDE, turi pagalbines priemones, kurios leidžia
 patogiai pergrupuoti jau sukurtas klases į paketus. Tam naudojami kontekstinio meniu "Refactor" submeniu
 komandos:
+
 - "Move" iškviečiama klavišais < Alt+Shift+V > leidžia perkelti klasės __failą__ į bet kurį paketą.
 - "Rename" iškviečiama klavišais < Alt+Shift+R > leidžia pervardinti klasės __failą ir klasę__.
 
@@ -72,6 +76,7 @@ Užduotys
 --------
 Šios dalies praktinė užduotis bus suijusi su visomis iki tol rašytomis programomis - jas reikės
 suorganizuoti į paketus taip, kad atrodytų kaip vieno didesnio projekto dalys:
+
 1. Kiekvienai pamokai sukurk po atitinkamą paketą *dev4game.stage01.step001" ir t.t.
 2. Perkelk į paketą visas su atitinkama pamoka susijusias programas.
 3. Pervardink programas taip, kad jų pavadinimai būtų užrašyti taip vadinamuoju *CamelCase* - kai
