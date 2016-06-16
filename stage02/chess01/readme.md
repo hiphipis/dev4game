@@ -101,4 +101,3 @@ Programėlė veikimo pabaigoje turėtų atspausdint visą celių kolekciją gaut
 
 Hint: vieną objektą galima įdėti į kelias skirtingas kolekcijas ir/arba masyvus tuo pačiu metu, kad vėliau būtų galima
 pasinaudoti ta kolekcija ar masyvu, kuri (-is) patogesnė kažkokiam veiksmui atlikti.
-dev4game.stage02.chess.
