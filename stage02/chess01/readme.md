@@ -12,7 +12,7 @@ kuriems aprašyti reikia sukurti atitinkamą klasę:
 ```java
 package dev4game.stage02.chess.board;
 
-class BoardCell {
+public class BoardCell {
     // Čia reikėtų išrašyti objekto savybes
     ...
 
@@ -62,7 +62,7 @@ package dev4game.stage02.chess.board;
 
 /** Žaidimo lenta saugo ir valdo langelių, iš kurių ji sudaryta, objektus
 */
-class GameBoard {
+public class GameBoard {
     // Čia reikėtų išrašyti objekto savybes
     ...
 
