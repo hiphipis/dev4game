@@ -79,7 +79,7 @@ modeliais. Apsirašykime apbendrintos figūros klasę:
 ```java
 package dev4game.stage02.chess.game;
 
-/** Apibendrinta 
+/** Apibendrinta žaidimo figūra
 */
 public interface GameFigure {
     /** Pasakykime figūrai kokiame laukelyje ji pastatyta
@@ -159,7 +159,8 @@ public class MuchPolymorficClass implements Contract1Interface, AnotherContractI
 Reikia pastebėti, kad jeigu klasė deklaruoja, jog įgyvendina apibendrintą _interface'ą_, tai ji privalo įgyvendinti visus jame deklaruotus metodus.
 Priešingu atveju Java kalbos kompiliatorius praneš apie klaidas.
 
-Uždaviniai:
+Uždaviniai
+----------
 
 1. Patobulinti _BoardCell_ klasę taip, kad ji mokėtų priimti apibendrintą žaidimo figūrą. Jeigu vietoje figūros objekto pateikiama _null_ reikšmė tai traktuojama, 
 kad nuo langelio nuimama figūra ir jis lieka tuščias. 
