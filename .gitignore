@@ -1,3 +1,8 @@
+# Java class files and run scripts
+*.java
+*.class
+*.cmd
+ 
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
